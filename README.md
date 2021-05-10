@@ -20,7 +20,7 @@ exo 2
 print("Bonjour tout le monde !")
 print('Je m\'appelle Patrick.')
 print("Je dis souvent \"la vie est un long fleuve tranquille\" quand on s'appelle Patrick.")
-print(Oui, je suis trÃ¨s philosophe.)
+print("Oui, je suis très philosophe.")
 ```
 
 
@@ -28,6 +28,6 @@ exo 3
 ```python
 a = -2.5
 b = True
-c = Falce
+c = False
 d = "Bonjour tout le monde"
 ```
